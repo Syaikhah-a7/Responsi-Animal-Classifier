@@ -1,4 +1,4 @@
-# 🐾 UTS Praktikum Kecerdasan Buatan 2026
+# 🐾 Responsi Praktikum Kecerdasan Buatan 2026
 
 ## Deskripsi
 Model klasifikasi hewan (kucing, anjing, hewan liar) menggunakan CNN dengan PyTorch.
